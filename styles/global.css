@@ -5,9 +5,18 @@
 }
 
 :root {
-
+  /* Colors */
+  --brand-color-light: #60A5FA;
+  --brand-color-dark: #1D4ED8;
+  --bg-color: #0F172A;
+  --stroke-color: #1E293B;
+  --text-color-primary: #F1F5FF;
+  --text-color-secondary:#CBD5E1;
+  /* Font */
+  --font-family: font-family: "Archivo", serif;
 }
 
 body {
-  
+  color: var(--text-color-primary);
+  background-color: var(--bg-color);
 }
