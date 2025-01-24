@@ -1,14 +1,14 @@
-<h1 align="center"> DevLinks - Discover </h1>
+<h1 align="center"> Perfil de Viagens - Made by: Gabrielly </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Programa exclusivo, promovido pela Rocketseat com o propósito de treinar e ensinar habilidades em HTML e CSS.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a hreft="#memo-licença">Agradecimento</a>
 </p>
 
 <p align="center">
@@ -23,25 +23,24 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 ## ⭐️ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Figma
 - Git e Github
 
-## 💐 Projeto
+## 🎀 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-## 🌟 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Um site onde há fotos de lugares que o usuário já viajou.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
----
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+## 💗 Agradecimento
+Obrigada pela atenção ♥ <br>
+Espero que goste dos meus projetos e me apoie nessa jornada! beijinhos ~ <br>
+-- de Elly ✨ --
+
+
